@@ -7,7 +7,7 @@ import Nav from './componants/nav';
 import Second from './componants/second';
 import logo from './logo.svg';
 
-// React hooks : 
+// React hooks : use state
 export default function App() {
   
   return (
